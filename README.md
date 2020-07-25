@@ -23,4 +23,4 @@ This will create all necessary tables.
 
 Run
 ------------
-Run test_work.py and the bot will start working.
+Run telegram/test_work.py and the bot will start working.
